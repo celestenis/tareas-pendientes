@@ -21,6 +21,8 @@ body{
     height: 600px;
     margin: 0 auto;
     padding: 40px;
+    background-color: #eeceb950;
+    border-radius: 20px;
 }
 .encabezado{
     padding: 10px 0 5px 0;
@@ -41,6 +43,7 @@ body{
     border-radius: 8px;
     background-color: #EECEB9;
     padding-left: 10px;
+    
 }
 .agregar input::placeholder{
     font-size: 1.1rem;
